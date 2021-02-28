@@ -1,1 +1,1 @@
-# Random-Quote-Machine.github.io
+# Random-Quote-Machine
